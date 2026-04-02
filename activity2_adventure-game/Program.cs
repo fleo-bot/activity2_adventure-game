@@ -148,7 +148,7 @@ namespace activity_2
             playerName = Console.ReadLine();
 
             Console.WriteLine("\nWelcome, " + playerName + "!");
-            Console.WriteLine("Your quest: defeat the dragon and save the kingdom!");
+            Console.WriteLine("Your quest: Defeat the Dragon and save the kingdom!");
             Console.WriteLine("Press any key to begin...");
             Console.ReadKey();
 
