@@ -143,7 +143,7 @@ namespace activity_2
         static void Main(string[] args)
         {
             Console.WriteLine("=== LEGEND OF THE CONSOLE KNIGHT ===");
-            Console.WriteLine("Welcome, brave adventurer!");
+            Console.WriteLine("Welcome, brave knight!");
             Console.Write("Enter your knight's name: ");
             playerName = Console.ReadLine();
 
